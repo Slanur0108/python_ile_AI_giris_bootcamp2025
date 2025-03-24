@@ -16,17 +16,15 @@ BFS Algoritması (en_az_aktarma_bul)
   Amaç: En az aktarma yapılan rotayı bulur.
   
   Çalışma Mantığı: 
-  -Başlangıç istasyonu kuyruğa eklenir.
-  -Her istasyon için komşular ziyaret edilir.
-  -Hedef istasyon bulunduğunda rota oluşturulur.
+  Başlangıç istasyonu kuyruğa eklenir,
+  her istasyon için komşular ziyaret edilir, hedef istasyon bulunduğunda rota oluşturulur.
 
 A* Algoritması (en_hizli_rota_bul)
   Amaç: En kısa sürede ulaşılan rotayı bulur.
   
   Çalışma Mantığı:
-  -Öncelik kuyruğu kullanarak istasyonlar en kısa sürede keşfedilir.
-  -Toplam seyahat süresi hesaplanır.
-  -Hedef istasyona ulaşıldığında en hızlı rota oluşturulur.
+  Öncelik kuyruğu kullanarak istasyonlar en kısa sürede keşfedilir,
+  toplam seyahat süresi hesaplanır, hedef istasyona ulaşıldığında en hızlı rota oluşturulur.
 
 4. Örnek Kullanım ve Test Sonuçları
 
