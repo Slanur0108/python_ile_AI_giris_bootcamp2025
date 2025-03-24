@@ -6,7 +6,7 @@ BFS (Breadth-First Search): En az aktarma ile rota bulma.
 
 A* Algoritması: En hızlı rotayı bulma.
 
-4. Kullanılan Teknolojiler ve Kütüphaneler
+2. Kullanılan Teknolojiler ve Kütüphaneler
 
 Projede kullanılan temel Python kütüphaneleri:
 
