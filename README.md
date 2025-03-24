@@ -1,0 +1,1 @@
+# python_ile_AI_giris_bootcamp2025
