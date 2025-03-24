@@ -7,8 +7,8 @@ A Algoritması:* En hızlı rotayı bulma.
 4. Kullanılan Teknolojiler ve Kütüphaneler
 
 Projede kullanılan temel Python kütüphaneleri:
-    heapq: Öncelik kuyruğu yapısını kullanarak A* algoritmasını uygular.
-    collections.deque: BFS algoritması için kuyruk veri yapısını sağlar.
+heapq: Öncelik kuyruğu yapısını kullanarak A* algoritmasını uygular.
+collections.deque: BFS algoritması için kuyruk veri yapısını sağlar.
 
 3. Algoritmaların Çalışma Mantığı
 
