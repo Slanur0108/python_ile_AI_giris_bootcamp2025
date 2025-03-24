@@ -31,9 +31,8 @@ A* Algoritması (en_hizli_rota_bul)
 
 4. Örnek Kullanım ve Test Sonuçları
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     metro = MetroAgi()
-    
     # İstasyonlar ekleme
     # Kırmızı Hat
     metro.istasyon_ekle("K1", "Kızılay", "Kırmızı Hat")
