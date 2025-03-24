@@ -1,13 +1,17 @@
 # python_ile_AI_giris_bootcamp2025
 
 1. Proje Başlığı ve Kısa Açıklama: Bu proje, bir metro ağını grafik veri yapısını kullanarak modellemekte ve iki farklı algoritma ile en uygun rotaları belirlemektedir:
+   
 BFS (Breadth-First Search): En az aktarma ile rota bulma.
-A Algoritması:* En hızlı rotayı bulma.
+
+A* Algoritması: En hızlı rotayı bulma.
 
 4. Kullanılan Teknolojiler ve Kütüphaneler
 
 Projede kullanılan temel Python kütüphaneleri:
+
 heapq: Öncelik kuyruğu yapısını kullanarak A* algoritmasını uygular.
+
 collections.deque: BFS algoritması için kuyruk veri yapısını sağlar.
 
 3. Algoritmaların Çalışma Mantığı
